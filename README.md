@@ -2,11 +2,11 @@
 This work was prepared as a final project of a course I completed in the Weizmann Institute of Science during my PhD studies.
 ("Practical Deep Learning for Science" by Prof. Eilam Gross)\n
 Goal: demonstrate remote optical eavesdroping.\n
-For example, record a meeting which takes place in an isolated building by record the vibrations of the windows (or any other nearby object) and reconstruct the audio signal. 
+For example, record a meeting which takes place in an isolated building by record the vibrations of the windows (or any other nearby object) and reconstruct the audio signal.\n
 There are numerous challeges in executing this goal:
-Audio frequencies varies between 20 Hz to 20,000 Hz that requires very Fast sampling rate ( 20,000 Hz signal corresponds to sampling of 50μs) with "Tons" of data to record
-Probably low SNR (Signal to Noise ratio)
-An unknown transmission of the window and setup
+* Audio frequencies varies between 20 Hz to 20,000 Hz that requires very Fast sampling rate ( 20,000 Hz signal corresponds to sampling of 50μs) with "Tons" of data to record
+* Probably low SNR (Signal to Noise ratio)
+* An unknown transmission of the window and setup
 ![](https://github.com/omrigo5/Signal-Classification/blob/master/objective.jpg?raw=true)
 
 # [Project 2 : Hotel-Booking-Cancellation](https://github.com/omrigo5/Hotel-Booking-Cancellation)
