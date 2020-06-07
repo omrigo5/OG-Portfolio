@@ -19,4 +19,4 @@ As a first stage the data was seperated to training/validation/test sets. To get
 
 Model selection was made by considering three models (Random Forest, Gradient Boosting and Logistic Regression) and evaluating them on the validation set. The effectiveness of dimensionality-reduction (using PCA) and model tuning (using Grid-Search) was assessed as well.
 
-![](https://github.com/omrigo5/Signal-Classification/blob/master/Lock-in.png?raw=true)
+![](https://github.com/omrigo5/OG-Portfolio/blob/master/Images/scores%20of%20models.png?raw=true)
