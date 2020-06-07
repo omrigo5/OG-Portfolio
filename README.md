@@ -6,7 +6,7 @@ There are numerous challeges in executing this goal:
 Audio frequencies varies between 20 Hz to 20,000 Hz that requires very Fast sampling rate ( 20,000 Hz signal corresponds to sampling of 50μs) with "Tons" of data to record
 Probably low SNR (Signal to Noise ratio)
 An unknown transmission of the window and setup
-![](https://github.com/omrigo5/OG-Portfolio/blob/master/Images/1dcnn%20illustration.png?raw=true)
+![](https://github.com/omrigo5/Signal-Classification/blob/master/objective.jpg?raw=true)
 
 # [Project 2 : Hotel-Booking-Cancellation](https://github.com/omrigo5/Hotel-Booking-Cancellation)
 Goal : Predict the chances of cancelation using data of costumers from multiple hotels. The data is given in a tabular form of 32 columns (20 numerical + 12 objects), and taken from Kaggle datasets: https://www.kaggle.com/jessemostipak/hotel-booking-demand
