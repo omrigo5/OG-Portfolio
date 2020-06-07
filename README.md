@@ -1,3 +1,4 @@
+# Portfolio - Omri Goldberg
 # [Project 1 : Signal-Classification](https://github.com/omrigo5/Signal-Classification)
 This work was prepared as a final project of a course I completed in the Weizmann Institute of Science during my PhD studies.
 ("Practical Deep Learning for Science" by Prof. Eilam Gross)  
