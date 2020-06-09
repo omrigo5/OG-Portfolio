@@ -8,7 +8,7 @@ The training was performed on slices of sequenced data with the audio source as 
 •	RNN (lstm) - a natural choice for time-series data where the order of the data is meaningful
 •	One-dimensional CNN - an adaptation of convolution usualy used in 2D and 3D for image analysis to detect patterns in 1D  
 1D-CNN proved to be a more suitable model yielding better accuracy with less training
-![](https://github.com/omrigo5/Signal-Classification/blob/master/objective.jpg?raw=true)
+![](https://github.com/omrigo5/Portfolio-Omri-Goldberg/blob/master/Images/cv%20figure.png?raw=true)
 
 
 # [Project 2 : Hotel-Booking-Cancellation](https://github.com/omrigo5/Hotel-Booking-Cancellation)
