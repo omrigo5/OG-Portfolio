@@ -36,4 +36,4 @@ I used an RCNN model from the torchvision library which was pretrained using res
 Although YOLO is in many cases considered as a more efficient model the FasterRCNN was evaluated first. YOLO was originally written in c++ by DarkWeb in 2015, it is currently not compatible to the Pytorch framework but was modified to work with TensorFlow. The YOLO model will be hopefully estimated as well for this project in the near future.
 
 Evaluation was carried out according to the competition rules. The score of each bbox prediction is based on the IoU metric (intersection of union) and the number of true- detections is a function of the threshold - the minimal IoU score that is considered as a right detection. 
-![](https://github.com/omrigo5/Portfolio-Omri-Goldberg/blob/master/Images/prediction-059.png?raw=true)
+![](https://github.com/omrigo5/Portfolio-Omri-Goldberg/blob/master/Images/publish-1.png?raw=true)
