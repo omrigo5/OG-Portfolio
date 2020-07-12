@@ -20,7 +20,7 @@ Optimal accuracy was achieved using a tuned model of logistic-regression
 ![](https://github.com/omrigo5/Portfolio-Omri-Goldberg/blob/master/Images/combined.png?raw=true)  
 
 # [Project 3 : Wheat-Detection (on going)](https://github.com/omrigo5/Wheat-Detection)
-An object-detection challenge from Kaggle launched on May-2020. 
+An object-detection challenge from Kaggle. The competition was launched on May-2020 and currently holds more than 1600 participants (teams and individuals).
 The raw data is provided from the Kaggle challange - Global Wheat-head Detection :  
 https://www.kaggle.com/c/global-wheat-detection/data  
 and consist two parts:
