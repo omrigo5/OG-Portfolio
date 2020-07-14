@@ -1,5 +1,5 @@
 Please check out my updated portfolio by clicking the following link:  
-https://omrigo5.github.io/cv/portfolio/
+(https://omrigo5.github.io/cv/portfolio/)
      
 Description of my data-science projects with links to their GitHub repositories:
 # [Project 1 : Signal-Classification](https://github.com/omrigo5/Signal-Classification)
