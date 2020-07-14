@@ -1,4 +1,4 @@
-Please check out my updated portfolio by clicking the following link:   
+Please check out my updated portfolio by clicking on the following link:   
 [omrigo5.github.io/cv/portfolio/]
      
 Description of my data-science projects with links to their GitHub repositories:
