@@ -1,5 +1,5 @@
 Please check out my updated portfolio by clicking the following link:   
-[1]
+[omrigo5.github.io/cv/portfolio/]
      
 Description of my data-science projects with links to their GitHub repositories:
 # [Project 1 : Signal-Classification](https://github.com/omrigo5/Signal-Classification)
@@ -41,4 +41,4 @@ Commonly, YOLO is considered superior in terms of efficiency, and is therefore o
 Evaluation was carried out according to the competition rules. The score of each bbox prediction is based on the IoU metric (intersection of union) and the number of true- detections is a function of the threshold - the minimal IoU score that is considered as a right detection. 
 ![](https://github.com/omrigo5/Portfolio-Omri-Goldberg/blob/master/Images/prediction_min.png?raw=true)
 
-[1]:https://omrigo5.github.io/cv/portfolio/
+[omrigo5.github.io/cv/portfolio/]:https://omrigo5.github.io/cv/portfolio/
